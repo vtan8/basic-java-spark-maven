@@ -1,0 +1,5 @@
+*.sw?
+
+dependency-reduced-pom.xml
+
+target/
